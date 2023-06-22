@@ -4,9 +4,13 @@ import { useRoute } from "vue-router"
 import { useShopStore } from "../../stores/shop"
 import { computed } from "@vue/reactivity"
 import { confirmData, confirmFn } from "../../utils/confirm"
+import { useAuthStore } from "../../stores/counter"
+import { toast } from "../../utils/toast"
 
 const route = useRoute()
 const store = useShopStore()
+const authStore = useAuthStore()
+console.log(authStore.userAddress[0])
 
 // 已勾选商品总价
 const price = computed(() => {
@@ -45,6 +49,18 @@ const product = computed(() => {
   }
   return productList
 })
+
+// 提交订单
+function submit() {
+  if (authStore.userAddress[0]) {
+    confirmFn(
+      ["到这里就结束了", "支付接口我没写,这里就是调用后端接口完成支付"],
+      () => (confirmData.show = false)
+    )
+  } else {
+    toast("请选择收货地址")
+  }
+}
 </script>
 
 <template>
@@ -143,15 +159,7 @@ const product = computed(() => {
   <div class="docker">
     <!-- 勾选了包装服务总金额就 加一  -->
     <div class="need-to-pay">¥{{ checked ? price + 1 || 0 : price || 0 }}</div>
-    <div
-      @click="
-        confirmFn(
-          ['到这里就结束了', '支付接口我没写,这里就是调用后端接口完成支付'],
-          () => (confirmData.show = false)
-        )
-      "
-      class="btn"
-    >
+    <div @click="submit()" class="btn">
       <div class="text">提交订单</div>
     </div>
   </div>
