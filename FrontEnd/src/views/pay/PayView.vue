@@ -5,6 +5,7 @@ import { useRoute } from "vue-router"
 import { computed } from "@vue/reactivity"
 import { useShopStore } from "../../stores/shop"
 import Confirm from "../../components/Confirm.vue"
+import Toast from "../../components/Toast.vue"
 
 const route = useRoute()
 const store = useShopStore()
@@ -27,6 +28,7 @@ const store = useShopStore()
 
 <template>
   <div class="content">
+    <Toast></Toast>
     <Header></Header>
     <ProductList></ProductList>
     <Confirm></Confirm>
