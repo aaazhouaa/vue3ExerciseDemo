@@ -1,0 +1,232 @@
+[
+    {
+        "id": "1",
+        "name": "良友-浙江中路二店",
+        "spike": [
+            {
+                "id": "1",
+                "title": "藤椒鸡约350g/份（不辣）",
+                "img": "https://img30.360buyimg.com/n1//s160x160_jfs/t1/108698/25/30338/179541/6405bc6cF950dbf36/b22b38b414da3e32.jpg",
+                "residue": "仅剩5件",
+                "sell": "月售0",
+                "discount": "秒杀7.92折限99份",
+                "now": "12.5",
+                "pre": "15.8"
+            },
+            {
+                "id": "2",
+                "title": "藤椒鸡约350g/份（微辣）",
+                "img": "https://img30.360buyimg.com/n1//s160x160_jfs/t1/108698/25/30338/179541/6405bc6cF950dbf36/b22b38b414da3e32.jpg",
+                "residue": "仅剩5件",
+                "sell": "月售0",
+                "discount": "秒杀7.92折限99份",
+                "now": "12.5",
+                "pre": "15.8"
+            },
+            {
+                "id": "3",
+                "title": "藤椒鸡约350g/份（较辣）",
+                "img": "https://img30.360buyimg.com/n1//s160x160_jfs/t1/108698/25/30338/179541/6405bc6cF950dbf36/b22b38b414da3e32.jpg",
+                "residue": "仅剩5件",
+                "sell": "月售0",
+                "discount": "秒杀7.92折限99份",
+                "now": "12.5",
+                "pre": "15.8"
+            }
+        ],
+        "cutoff": [
+            {
+                "id": "4",
+                "title": "洽洽香瓜子160g/袋",
+                "img": "https://img30.360buyimg.com/n1//s160x160_jfs/t1192/257/1278216435/194112/f68b4380/558d099cNe426607b.jpg",
+                "residue": "仅剩5件",
+                "sell": "月售0",
+                "discount": "秒杀8.12折限99份",
+                "now": "9.5",
+                "pre": "11.7"
+            },
+            {
+                "id": "5",
+                "title": "洽洽香瓜子160g/袋",
+                "img": "https://img30.360buyimg.com/n1//s160x160_jfs/t1192/257/1278216435/194112/f68b4380/558d099cNe426607b.jpg",
+                "residue": "仅剩5件",
+                "sell": "月售0",
+                "discount": "秒杀8.12折限99份",
+                "now": "9.5",
+                "pre": "11.7"
+            },
+            {
+                "id": "6",
+                "title": "洽洽香瓜子160g/袋",
+                "img": "https://img30.360buyimg.com/n1//s160x160_jfs/t1192/257/1278216435/194112/f68b4380/558d099cNe426607b.jpg",
+                "residue": "仅剩5件",
+                "sell": "月售0",
+                "discount": "秒杀8.12折限99份",
+                "now": "9.5",
+                "pre": "11.7"
+            }
+        ],
+        "water": [
+            {
+                "id": "7",
+                "title": "雪碧2L/瓶",
+                "img": "https://img30.360buyimg.com/n1//s160x160_jfs/t25138/267/2216642030/151282/9fb0a517/5bc6fe97Nb6671db3.jpg",
+                "residue": "仅剩5件",
+                "sell": "月售0",
+                "discount": "秒杀8.12折限99份",
+                "now": "9.5",
+                "pre": "11.7"
+            },
+            {
+                "id": "8",
+                "title": "雪碧2L/瓶",
+                "img": "https://img30.360buyimg.com/n1//s160x160_jfs/t25138/267/2216642030/151282/9fb0a517/5bc6fe97Nb6671db3.jpg",
+                "residue": "仅剩5件",
+                "sell": "月售0",
+                "discount": "秒杀8.12折限99份",
+                "now": "9.5",
+                "pre": "11.7"
+            },
+            {
+                "id": "9",
+                "title": "雪碧2L/瓶",
+                "img": "https://img30.360buyimg.com/n1//s160x160_jfs/t25138/267/2216642030/151282/9fb0a517/5bc6fe97Nb6671db3.jpg",
+                "residue": "仅剩5件",
+                "sell": "月售0",
+                "discount": "秒杀8.12折限99份",
+                "now": "9.5",
+                "pre": "11.7"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "紫燕百味鸡广西店-直营",
+        "self": [
+            {
+                "id": "1",
+                "title": "【单人套餐】夫妻肺片约80g/份+素拼120克+米饭300g/份（不辣）",
+                "img": "https://img30.360buyimg.com/n1//s160x160_jfs/t1/108698/25/30338/179541/6405bc6cF950dbf36/b22b38b414da3e32.jpg",
+                "residue": "仅剩5件",
+                "sell": "月售2",
+                "discount": "秒杀9折限99份",
+                "now": "53.91",
+                "pre": "59.9"
+            },
+            {
+                "id": "2",
+                "title": "【单人套餐】夫妻肺片约80g/份+素拼120克+米饭300g/份（不辣）",
+                "img": "https://img30.360buyimg.com/n1//s160x160_jfs/t1/108698/25/30338/179541/6405bc6cF950dbf36/b22b38b414da3e32.jpg",
+                "residue": "仅剩5件",
+                "sell": "月售2",
+                "discount": "秒杀9折限99份",
+                "now": "53.91",
+                "pre": "59.9"
+            },
+            {
+                "id": "3",
+                "title": "【单人套餐】夫妻肺片约80g/份+素拼120克+米饭300g/份（不辣）",
+                "img": "https://img30.360buyimg.com/n1//s160x160_jfs/t1/108698/25/30338/179541/6405bc6cF950dbf36/b22b38b414da3e32.jpg",
+                "residue": "仅剩5件",
+                "sell": "月售2",
+                "discount": "秒杀9折限99份",
+                "now": "53.91",
+                "pre": "59.9"
+            },
+            {
+                "id": "4",
+                "title": "【单人套餐】夫妻肺片约80g/份+素拼120克+米饭300g/份（不辣）",
+                "img": "https://img30.360buyimg.com/n1//s160x160_jfs/t1/108698/25/30338/179541/6405bc6cF950dbf36/b22b38b414da3e32.jpg",
+                "residue": "仅剩5件",
+                "sell": "月售2",
+                "discount": "秒杀9折限99份",
+                "now": "53.91",
+                "pre": "59.9"
+            },
+            {
+                "id": "5",
+                "title": "【单人套餐】夫妻肺片约80g/份+素拼120克+米饭300g/份（不辣）",
+                "img": "https://img30.360buyimg.com/n1//s160x160_jfs/t1/108698/25/30338/179541/6405bc6cF950dbf36/b22b38b414da3e32.jpg",
+                "residue": "仅剩5件",
+                "sell": "月售2",
+                "discount": "秒杀9折限99份",
+                "now": "53.91",
+                "pre": "59.9"
+            },
+            {
+                "id": "6",
+                "title": "【单人套餐】夫妻肺片约80g/份+素拼120克+米饭300g/份（不辣）",
+                "img": "https://img30.360buyimg.com/n1//s160x160_jfs/t1/108698/25/30338/179541/6405bc6cF950dbf36/b22b38b414da3e32.jpg",
+                "residue": "仅剩5件",
+                "sell": "月售2",
+                "discount": "秒杀9折限99份",
+                "now": "53.91",
+                "pre": "59.9"
+            }
+        ],
+        "sign": [
+            {
+                "id": "7",
+                "title": "酱香鸭约250g/份（常温）",
+                "img": "https://img30.360buyimg.com/n1//s160x160_jfs/t1/112084/23/32477/261298/6405bf31Feb2eaf6f/945d12b37e7c1af8.jpg",
+                "residue": "仅剩5件",
+                "sell": "月售0",
+                "discount": "秒杀8.12折限99份",
+                "now": "9.5",
+                "pre": "32.3"
+            },
+            {
+                "id": "8",
+                "title": "酱香鸭约250g/份（常温）",
+                "img": "https://img30.360buyimg.com/n1//s160x160_jfs/t1/112084/23/32477/261298/6405bf31Feb2eaf6f/945d12b37e7c1af8.jpg",
+                "residue": "仅剩5件",
+                "sell": "月售0",
+                "discount": "秒杀8.12折限99份",
+                "now": "9.5",
+                "pre": "32.3"
+            },
+            {
+                "id": "9",
+                "title": "酱香鸭约250g/份（常温）",
+                "img": "https://img30.360buyimg.com/n1//s160x160_jfs/t1/112084/23/32477/261298/6405bf31Feb2eaf6f/945d12b37e7c1af8.jpg",
+                "residue": "仅剩5件",
+                "sell": "月售0",
+                "discount": "秒杀8.12折限99份",
+                "now": "9.5",
+                "pre": "32.3"
+            }
+        ],
+        "vegetable": [
+            {
+                "id": "10",
+                "title": "素菜拼盘约250g/份（常温）",
+                "img": "https://img30.360buyimg.com/n1//s160x160_jfs/t1/89125/4/18951/225571/6405befcFb8fbe97b/0fe4b246d3a75f59.jpg",
+                "residue": "仅剩5件",
+                "sell": "月售0",
+                "discount": "秒杀9.1折限99份",
+                "now": "19.9",
+                "pre": "21.9"
+            },
+            {
+                "id": "11",
+                "title": "素菜拼盘约250g/份（常温）",
+                "img": "https://img30.360buyimg.com/n1//s160x160_jfs/t1/89125/4/18951/225571/6405befcFb8fbe97b/0fe4b246d3a75f59.jpg",
+                "residue": "仅剩5件",
+                "sell": "月售0",
+                "discount": "秒杀9.1折限99份",
+                "now": "19.9",
+                "pre": "21.9"
+            },
+            {
+                "id": "12",
+                "title": "素菜拼盘约250g/份（常温）",
+                "img": "https://img30.360buyimg.com/n1//s160x160_jfs/t1/89125/4/18951/225571/6405befcFb8fbe97b/0fe4b246d3a75f59.jpg",
+                "residue": "仅剩5件",
+                "sell": "月售0",
+                "discount": "秒杀9.1折限99份",
+                "now": "19.9",
+                "pre": "21.9"
+            }
+        ]
+    }
+]

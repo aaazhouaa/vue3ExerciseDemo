@@ -1,0 +1,36 @@
+[
+    {
+        "id": "1",
+        "sideBar": [
+            {
+                "title": "秒杀",
+                "tab": "spike"
+            },
+            {
+                "title": "直降",
+                "tab": "cutoff"
+            },
+            {
+                "title": "饮料纯水",
+                "tab": "water"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "sideBar": [
+            {
+                "title": "单人套餐",
+                "tab": "self"
+            },
+            {
+                "title": "紫燕招牌",
+                "tab": "sign"
+            },
+            {
+                "title": "爽口素菜",
+                "tab": "vegetable"
+            }
+        ]
+    }
+]

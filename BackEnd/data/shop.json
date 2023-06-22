@@ -1,0 +1,24 @@
+[
+    {
+        "id": "1",
+        "name": "良友-浙江中路二店",
+        "img": "https://img30.360buyimg.com/vendersettle/jfs/t1/155148/12/22278/14425/642e2dd3Fd38dc147/d26be4ce074d364f.png",
+        "time": "达达快送 · 37分钟",
+        "freight": "运费¥5",
+        "tip": "满减",
+        "discount": "脉动满18减3,满30减6",
+        "moreDiscount": "13种优惠",
+        "allGoods": "搜索店内555件商品"
+    },
+    {
+        "id": "2",
+        "name": "紫燕百味鸡广西店-直营",
+        "img": "https://img30.360buyimg.com/vendersettle/jfs/t1/139475/5/35265/24006/642e3a91F7c7fd6ef/5d22d2d1160e767c.png",
+        "time": "达达快送 · 30分钟",
+        "freight": "运费¥5",
+        "tip": "满减",
+        "discount": "满件减(满件满1件减30元)",
+        "moreDiscount": "19种优惠",
+        "allGoods": "搜索店内921件商品"
+    }
+]

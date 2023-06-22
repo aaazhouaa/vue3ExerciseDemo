@@ -1,0 +1,97 @@
+[
+    {
+        "id": 1,
+        "img": "https://img30.360buyimg.com/mobilecms//jfs/t1/26854/1/19189/10933/632ad12cE124ec98e/36ff0a908a6dd109.png",
+        "desc": "超市便利"
+    },
+    {
+        "id": 2,
+        "img": "https://img30.360buyimg.com/mobilecms//jfs/t1/189312/3/31416/4267/644b6093F879b5a47/c346e794577d3a45.png",
+        "desc": "早间集市"
+    },
+    {
+        "id": 3,
+        "img": "https://img30.360buyimg.com/mobilecms//jfs/t1/28135/9/18972/4714/632ad18fE5ed6b4d8/1bac6d2a7d749e32.png",
+        "desc": "生鲜菜场"
+    },
+    {
+        "id": 4,
+        "img": "https://img30.360buyimg.com/mobilecms//jfs/t1/209854/10/28108/4440/6374a535E8fbc373f/14ac4aef01880bd4.png",
+        "desc": "甜品茶饮"
+    },
+    {
+        "id": 5,
+        "img": "https://img30.360buyimg.com/mobilecms//jfs/t1/97613/13/32838/10170/63747f3bE22375f9a/4a3d294450a8c7e3.png",
+        "desc": "酒水饮料"
+    },
+    {
+        "id": 6,
+        "img": "https://img30.360buyimg.com/mobilecms//jfs/t1/163218/4/26816/4547/632ae979E5ec8251e/d1c0f9927044752b.png",
+        "desc": "电脑数码"
+    },
+    {
+        "id": 7,
+        "img": "https://img30.360buyimg.com/mobilecms//jfs/t1/101386/16/31442/8717/632ad317E2eb676aa/642f6d4c5f977444.png",
+        "desc": "母婴"
+    },
+    {
+        "id": 8,
+        "img": "https://img30.360buyimg.com/mobilecms//jfs/t1/71917/19/21857/4271/632ae754E6ccebad3/29383c7b9bafc162.png",
+        "desc": "美妆护肤"
+    },
+    {
+        "id": 9,
+        "img": "https://img30.360buyimg.com/mobilecms//jfs/t1/105433/37/30507/4419/63e63476F2629177b/710894453cc0687e.png",
+        "desc": "买药"
+    },
+    {
+        "id": 10,
+        "img": "https://img30.360buyimg.com/mobilecms//jfs/t1/29196/18/19659/4244/632adefcEfe255570/229e28073455a87e.png",
+        "desc": "手机通讯"
+    },
+    {
+        "id": 11,
+        "img": "https://img30.360buyimg.com/mobilecms//jfs/t1/186072/8/31494/9964/6382d9e3E3793c2f1/c0fb060f10f3d583.png",
+        "desc": "水果果切"
+    },
+    {
+        "id": 12,
+        "img": "https://img30.360buyimg.com/mobilecms//jfs/t1/114256/24/31017/9180/637f4520Ed55e2f53/9392fda1ce064d9d.png",
+        "desc": "便利店"
+    },
+    {
+        "id": 13,
+        "img": "https://img30.360buyimg.com/mobilecms//jfs/t1/158535/27/30660/4480/632ad399Ebb07bd6a/ee2939bf48a3f8f2.png",
+        "desc": "鲜花礼品"
+    },
+    {
+        "id": 14,
+        "img": "https://img30.360buyimg.com/mobilecms//jfs/t1/206142/8/30742/4076/63f5bd22F365e331f/4356dd9ad5dfb18c.png",
+        "desc": "生活缴费"
+    },
+    {
+        "id": 15,
+        "img": "https://img30.360buyimg.com/mobilecms//jfs/t1/50058/39/19412/4271/632ae8eeEfd4c543a/fc87db87537d1da0.png",
+        "desc": "服饰运动"
+    },
+    {
+        "id": 16,
+        "img": "https://img30.360buyimg.com/mobilecms//jfs/t1/158837/14/30928/4731/63359335E4d9532db/b68e05473aec7e62.png",
+        "desc": "达达快送"
+    },
+    {
+        "id": 17,
+        "img": "https://img30.360buyimg.com/mobilecms//jfs/t1/103795/9/37287/7369/64143a51F209cded1/e8e9bfcf8902a6fc.png",
+        "desc": "家居家电"
+    },
+    {
+        "id": 18,
+        "img": "https://img30.360buyimg.com/mobilecms//jfs/t1/79424/24/22005/4167/632aec60E701d004c/2c0fc125ff8834e8.png",
+        "desc": "平台公示"
+    },
+    {
+        "id": 19,
+        "img": "https://img30.360buyimg.com/mobilecms//jfs/t1/166506/35/28269/4360/632ae9f1E1534fbcf/e2a08fc19d2e266b.png",
+        "desc": "宠物生活"
+    }
+]

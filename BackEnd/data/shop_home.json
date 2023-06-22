@@ -1,0 +1,178 @@
+[
+    {
+        "id": "1",
+        "name": "良友-浙江中路二店",
+        "categories": [
+            {
+                "title": "乳制类品",
+                "products": [
+                    {
+                        "id": "10",
+                        "img": "https://img30.360buyimg.com/n1//s225x225_jfs/t1/174469/3/35514/10613/642706a8Fa6e14018/57a929fe8340a227.jpg",
+                        "title": "【饮料】可口可乐1.25L/瓶",
+                        "now": "6.9"
+                    },
+                    {
+                        "id": "11",
+                        "img": "https://img30.360buyimg.com/n1//s225x225_jfs/t1/200144/14/30474/33116/63b05d8aFbda55238/224e37773729b7bb.jpg",
+                        "title": "【饮料】雪碧1.25L/瓶",
+                        "now": "6.9"
+                    },
+                    {
+                        "id": "12",
+                        "img": "https://img30.360buyimg.com/n1//s225x225_jfs/t1/118082/24/33892/38101/64270402F2d661c33/a78db55ac3abf647.jpg",
+                        "title": "【饮用水】农夫山泉饮用天然水4L",
+                        "now": "5.9"
+                    },
+                    {
+                        "id": "13",
+                        "img": "https://img30.360buyimg.com/n1//s225x225_jfs/t1/33346/6/21133/89915/64270bebFa3bc699b/39a22afa635a6047.jpg",
+                        "title": "【饮用水】农夫山泉天然饮用水550ml*12瓶/组",
+                        "now": "12.8"
+                    },
+                    {
+                        "id": "14",
+                        "img": "https://img30.360buyimg.com/n1//s225x225_jfs/t1/170209/6/30656/40893/64270502F506c43cf/b2292c15dbe10883.jpg",
+                        "title": "【饮料】延中盐汽水600ml/瓶",
+                        "now": "1.9"
+                    },
+                    {
+                        "id": "15",
+                        "img": "https://img30.360buyimg.com/n1//s225x225_jfs/t1/135668/4/29954/57064/64270503F2db1acfa/fe83545997d00ea6.jpg",
+                        "title": "【饮料】养乐多 活菌型乳酸菌乳饮品（原味）100ml*5瓶/组",
+                        "now": "12.8"
+                    }
+                ]
+            },
+            {
+                "title": "乳制类品",
+                "products": [
+                    {
+                        "id": "10",
+                        "img": "https://img30.360buyimg.com/n1//s225x225_jfs/t1/174469/3/35514/10613/642706a8Fa6e14018/57a929fe8340a227.jpg",
+                        "title": "【饮料】可口可乐1.25L/瓶",
+                        "now": "6.9"
+                    },
+                    {
+                        "id": "11",
+                        "img": "https://img30.360buyimg.com/n1//s225x225_jfs/t1/200144/14/30474/33116/63b05d8aFbda55238/224e37773729b7bb.jpg",
+                        "title": "【饮料】雪碧1.25L/瓶",
+                        "now": "6.9"
+                    },
+                    {
+                        "id": "12",
+                        "img": "https://img30.360buyimg.com/n1//s225x225_jfs/t1/118082/24/33892/38101/64270402F2d661c33/a78db55ac3abf647.jpg",
+                        "title": "【饮用水】农夫山泉饮用天然水4L",
+                        "now": "5.9"
+                    },
+                    {
+                        "id": "13",
+                        "img": "https://img30.360buyimg.com/n1//s225x225_jfs/t1/33346/6/21133/89915/64270bebFa3bc699b/39a22afa635a6047.jpg",
+                        "title": "【饮用水】农夫山泉天然饮用水550ml*12瓶/组",
+                        "now": "12.8"
+                    },
+                    {
+                        "id": "14",
+                        "img": "https://img30.360buyimg.com/n1//s225x225_jfs/t1/170209/6/30656/40893/64270502F506c43cf/b2292c15dbe10883.jpg",
+                        "title": "【饮料】延中盐汽水600ml/瓶",
+                        "now": "1.9"
+                    },
+                    {
+                        "id": "15",
+                        "img": "https://img30.360buyimg.com/n1//s225x225_jfs/t1/135668/4/29954/57064/64270503F2db1acfa/fe83545997d00ea6.jpg",
+                        "title": "【饮料】养乐多 活菌型乳酸菌乳饮品（原味）100ml*5瓶/组",
+                        "now": "12.8"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "紫燕百味鸡广西店-直营",
+        "categories": [
+            {
+                "title": "紫燕招牌",
+                "products": [
+                    {
+                        "id": "13",
+                        "img": "https://img30.360buyimg.com/n1//s225x225_jfs/t1/112084/23/32477/261298/6405bf31Feb2eaf6f/945d12b37e7c1af8.jpg",
+                        "title": "酱香鸭约250g/份（常温）",
+                        "now": "30.9"
+                    },
+                    {
+                        "id": "14",
+                        "img": "https://img30.360buyimg.com/n1//s253x253_jfs/t1/51314/39/21729/279261/6405bdbfFd497d45b/dbf4e2ce6def1e73.jpg",
+                        "title": "百味鸡约500g/份（常温）",
+                        "now": "65.9"
+                    },
+                    {
+                        "id": "15",
+                        "img": "https://img30.360buyimg.com/n1//s225x225_jfs/t1/93979/25/37341/240099/6405bc9dF14e43ec3/c8f165392163cd0e.jpg",
+                        "title": "五香牛肉约180g/份（常温）",
+                        "now": "60.9"
+                    },
+                    {
+                        "id": "16",
+                        "img": "https://img30.360buyimg.com/n1//s225x225_jfs/t1/179098/37/32703/279261/6405ba38F02bc1be3/616e919afb37bb5f.jpg",
+                        "title": "百味鸡约300g/份（常温）",
+                        "now": "34.9"
+                    },
+                    {
+                        "id": "17",
+                        "img": "https://img30.360buyimg.com/n1//s225x225_jfs/t1/141954/29/34708/284417/6405bcbbFb89453f6/d062e8b9daf342b8.jpg",
+                        "title": "酱香牛腱肉约180g/份（常温）",
+                        "now": "60.9"
+                    },
+                    {
+                        "id": "18",
+                        "img": "https://img30.360buyimg.com/n1//s225x225_jfs/t1/71592/28/24592/240724/6405be72F43e5b7a7/63c724c16b586bfc.jpg",
+                        "title": "五香猪头肉约300g/份（常温）",
+                        "now": "41.9"
+                    }
+                ]
+            },
+            {
+                "title": "紫燕招牌",
+                "products": [
+                    {
+                        "id": "13",
+                        "img": "https://img30.360buyimg.com/n1//s225x225_jfs/t1/112084/23/32477/261298/6405bf31Feb2eaf6f/945d12b37e7c1af8.jpg",
+                        "title": "酱香鸭约250g/份（常温）",
+                        "now": "30.9"
+                    },
+                    {
+                        "id": "14",
+                        "img": "https://img30.360buyimg.com/n1//s253x253_jfs/t1/51314/39/21729/279261/6405bdbfFd497d45b/dbf4e2ce6def1e73.jpg",
+                        "title": "百味鸡约500g/份（常温）",
+                        "now": "65.9"
+                    },
+                    {
+                        "id": "15",
+                        "img": "https://img30.360buyimg.com/n1//s225x225_jfs/t1/93979/25/37341/240099/6405bc9dF14e43ec3/c8f165392163cd0e.jpg",
+                        "title": "五香牛肉约180g/份（常温）",
+                        "now": "60.9"
+                    },
+                    {
+                        "id": "16",
+                        "img": "https://img30.360buyimg.com/n1//s225x225_jfs/t1/179098/37/32703/279261/6405ba38F02bc1be3/616e919afb37bb5f.jpg",
+                        "title": "百味鸡约300g/份（常温）",
+                        "now": "34.9"
+                    },
+                    {
+                        "id": "17",
+                        "img": "https://img30.360buyimg.com/n1//s225x225_jfs/t1/141954/29/34708/284417/6405bcbbFb89453f6/d062e8b9daf342b8.jpg",
+                        "title": "酱香牛腱肉约180g/份（常温）",
+                        "now": "60.9"
+                    },
+                    {
+                        "id": "18",
+                        "img": "https://img30.360buyimg.com/n1//s225x225_jfs/t1/71592/28/24592/240724/6405be72F43e5b7a7/63c724c16b586bfc.jpg",
+                        "title": "五香猪头肉约300g/份（常温）",
+                        "now": "41.9"
+                    }
+                ]
+            }
+        ]
+    }
+]
